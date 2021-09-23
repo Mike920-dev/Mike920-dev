@@ -12,7 +12,7 @@ Some stats 😉:
 
 More info about me 😃:
 - 🔭 I’m currently working on a discord bot https://github.com/discord-snip
-- 💬 Ask me about anythin u want 😉
+- 💬 Ask me about anything u want 😉
 - 📫 How to reach me: discord(Michał__#5337)/twitter(@m_slezak_codes)/github
 <!--
 - 🌱 I’m currently learning ...
