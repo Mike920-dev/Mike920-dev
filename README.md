@@ -2,7 +2,7 @@
 I'm Michał 👋
 I'm a 16-year-old high school student from Warsaw, PL.
 
-IT, is my passion (especially programming) |💻|🐍|💕
+IT is my passion, (especially programming) |💻|🐍|💕
 
 Some stats 😉:
 
