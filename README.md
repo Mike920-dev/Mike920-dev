@@ -10,7 +10,7 @@ Some stats 😉:
 
 More info about me 😃:
 - 🔭 I’m currently working on: 
-▶️ https://losowanko.lo49.edu.pl/
+* https://losowanko.lo49.edu.pl/
 ▶️ https://github.com/discord-snip
 ▶️ platforma dla maturzystów z informatyki (coming soon... 🔜)
 
