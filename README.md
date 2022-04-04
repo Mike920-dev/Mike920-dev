@@ -10,7 +10,7 @@ Some stats 😉:
 
 <!-- More info about me 😃: -->
 🔭 I’m currently working on: 
-* https://losowanko.lo49.edu.pl/ (responsible for script that displays quotes and popup)
+* https://losowanko.lo49.edu.pl/ (responsible for scripts that display quotes and popup)
 * https://github.com/discord-snip
 * platforma dla maturzystów z informatyki (coming soon... 🔜)
 
