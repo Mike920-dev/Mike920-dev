@@ -13,6 +13,7 @@ Some stats 😉:
 * https://losowanko.lo49.edu.pl/ (responsible for scripts that display quotes and popups)
 * https://github.com/discord-snip
 * platforma dla maturzystów z informatyki (coming soon... 🔜)
+* https://github.com/Mike920-dev/Price-Tracker-Bot
 
 <!-- - 💬 Ask me about anything u want 😉 -->
 
